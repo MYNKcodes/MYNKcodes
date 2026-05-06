@@ -34,13 +34,9 @@ I'm Mayank Shukla, a Web Developer based in Bhopal, M.P. I am passionate about b
 **ZeroDay | Independent Cybersecurity Product**
 A live application running on Google Cloud Run. It includes a community forum, a robust phishing sandbox, and a `/pwncheck` utility utilizing k-Anonymity cryptography for secure password verification.
 
-## 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MYNKcodes&show_icons=true&theme=radium)
-
-
 ## 📫 Let's Connect
 - **Email:** mayankshukla0408@gmail.com
-- **LinkedIn:** [Mayank Shukla](linkedin.com/in/mayank-shukla-o4o7/)
+- **LinkedIn:** [Mayank Shukla](https://www.linkedin.com/in/mayank-shukla-o4o7/)
 
 ---
 *Always eager to collaborate on scalable web applications, security tools, or innovative tech solutions.*
